@@ -17,7 +17,7 @@ void solve()
         {
             cout << total << endl;
         }
-        else
+        if(a + b < c)
         {
             cout << a + b << endl;
         }
