@@ -7,4 +7,4 @@
 | C_Word_on_the_Paper | ✅    | Accepted |
 | A_Chess_For_Three   | ✅    | Accepted |
 | C_Word_on_the_Paper | ✅    | Accepted |
-| A. Rating Increase  | ✅    | Accepted |
+| A_Rating_Increase   | ✅    | Accepted |
